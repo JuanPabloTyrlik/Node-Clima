@@ -1,4 +1,4 @@
-## Clima App
+## Aplicación del Clima
 
 Obtiene el clima de una ciudad
 
