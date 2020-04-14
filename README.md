@@ -1,7 +1,17 @@
-## Aplicación del Clima
+### Aplicación del Clima
 
-Obtiene el clima de una ciudad
+Retorna el clima de una ciudad
+
+### Comandos
+
+- --direccion, -d
+
+### Ejemplo
 
 ```
-npm install
+node app -d "La Plata"
 ```
+
+### Notas
+
+Ejecutar ``` npm install ``` para instalar las dependencias
